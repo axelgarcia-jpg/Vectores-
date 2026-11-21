@@ -1,0 +1,13 @@
+{
+  "resultado": {
+    "ruta": [1, 2],
+    "energiaFinal": 80
+  },
+  "visual": {
+    "velocidad": 2,
+    "direccion": {
+      "x": 0.6,
+      "y": 0.8
+    }
+  }
+}
